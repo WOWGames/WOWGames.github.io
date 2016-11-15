@@ -25,18 +25,18 @@ colors:  #in hex code if not noted else
 ### CONTACT SETTINGS ###
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
-social:
-  - title: dribbble
-    url:
-  - title: facebook
-    url:
-  - title: twitter
-    url:
-  - title: instagram
-    url:
-  - title: tumblr
-    url:
-
+# social:
+#   - title: dribbble
+#     url:
+#   - title: facebook
+#     url:
+#   - title: twitter
+#     url:
+#   - title: instagram
+#     url:
+#   - title: tumblr
+#     url:
+#
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 # address:
 #   - lines:
@@ -51,48 +51,53 @@ social:
 
 # Members information. Shown on About page.
 members:
-  - name: DK Nguyen
-    position: Team member
-    text: Wow
+  - name: Priyank Patel
+    position: Lead Programmer
+    text: Game design, __(MORE)__
     img: team01.png
     social:
       - title: envelope #use for email address
-        url: mailto:dkknguyen23@gmail.com
-  - name: Darren Lieu
-    position: Team member
-    text: wow
+        url: mailto:pnpatel2@uci.edu
+
+  - name: DK Nguyen
+    position: Designer
+    text: Web, tilemap, __(MORE)__
     img: team02.png
     social:
       - title: envelope #use for email address
-        url: mailto:lieud1@uci.edu
-  - name: Priyank Patel
-    position: Team member
-    text: WOW
+        url: mailto:dkknguyen23@gmail.com
+
+  - name: Darren Lieu
+    position: Programmer
+    text: Game code development, __(MORE)__
     img: team03.png
     social:
       - title: envelope #use for email address
-        url: mailto:pnpatel2@uci.edu
+        url: mailto:lieud1@uci.edu
+
   - name: Gary Pan
-    position: Team member
-    text: wOw
+    position: Programmer
+    text: Game code development, __(MORE)__
     img: team04.png
     social:
       - title: envelope #use for email address
         url: mailto:gpan2@uci.edu
-  - name: Jimmy Liu
-    position: Team member
-    text: WoW
+
+  - name: Jacob Marello
+    position: Programmer
+    text: Tilemap developer, __(MORE)__
     img: team05.png
     social:
       - title: envelope #use for email address
-        url: mailto:jimml10@uci.edu
-  - name: Jacob Marello
-    position: Team member
-    text: W0W
+        url: mailto:jmarello@uci.edu
+
+  - name: Jimmy Liu
+    position: Marketing
+    text: Marketing, documentation, __(MORE)__
     img: team06.png
     social:
       - title: envelope #use for email address
-        url: mailto:jmarello@uci.edu
+        url: mailto:jimml10@uci.edu
 
       # - title: twitter
       #   url: http://twitter.com/handle

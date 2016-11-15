@@ -10,26 +10,26 @@ permalink:
             <div class="col-md-4">
                 <i class="fa fa-gamepad"></i>
                 <h4>GAME GAME GAME</h4>
-                <p>Check out our awesome game!</p>
-                <p><br/><a href="#" class="btn btn-theme">More Info</a></p>
+                <p>Check out our new awesome game!</p>
+                <p><br/><a href="{{ site.baseurl }}/games/" class="btn btn-theme">More Info</a></p>
             </div>
             <div class="col-md-4">
                 <i class="fa fa-file"></i>
                 <h4>Documentation</h4>
                 <p>Wanna know everything about our game? Check out our documentation.</p>
-                <p><br/><a href="#" class="btn btn-theme">More Info</a></p>
+                <p><br/><a href="{{ site.baseurl }}/documentation/" class="btn btn-theme">More Info</a></p>
             </div>
             <div class="col-md-4">
                 <i class="fa fa-group"></i>
                 <h4>Awesome Team</h4>
                 <p>Who are we? Who made this game? Who are the heroes?</p>
-                <p><br/><a href="#" class="btn btn-theme">More Info</a></p>
+                <p><br/><a href="{{ site.baseurl }}/about/" class="btn btn-theme">More Info</a></p>
             </div>
         </div>
     </div><! --/container -->
 </div><! --/service -->
 
-{% include portfolio.html title="LATEST WORKS" limit=10 %}
+<!-- {% include portfolio.html title="LATEST WORKS" limit=10 %} -->
 
 <div class="container mtb">
     <div class="row">
@@ -39,16 +39,16 @@ permalink:
             <p><br/><a href="{{ "/about/" | prepend: site.baseurl }}" class="btn btn-theme">More Info</a></p>
         </div>
 
-        <div class="col-lg-3">
+        <!-- <div class="col-lg-3">
             <h4>Frequently Asked</h4>
             <div class="hline"></div>
             {% for post in site.categories['question'] %}
                 <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>
             {% endfor %}
-        </div>
+        </div> -->
 
         <div class="col-lg-3">
-            <h4>Latest Posts</h4>
+            <h4>Latest News</h4>
             <div class="hline"></div>
             {% for post in site.categories['blog'] limit:5 %}
                 <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}.</a></p>
