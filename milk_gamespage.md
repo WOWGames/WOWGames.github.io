@@ -26,9 +26,17 @@ Gain a Following- Collect followers to help you on your adventure. Enlist them t
 Battle Enemies- Vanquish challenging bosses, relentless creatures, and even the occational stray cat; all in the name of family.
 
 ### Reviews
-5/5 - I laughed, I cried, I yelled. This game had me hooked for hours! Great story, beautiful worldy
-4/5 - This game was great, my only complaint was that there wasn't different difficulty levels and I kept dieing.
-1/5 - I couldn't figure out how to install it.
+__5/5__
+
+I laughed, I cried, Iand  yelled. This game had me hooked for hours! Great story, beautiful world.
+
+__4/5__
+
+This game was great! My only complaint was that there weren't any different difficulty levels and I kept dying.
+
+__1/5__
+
+I couldn't figure out how to install it.
 
 ### System Requirements
 
