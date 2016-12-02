@@ -31,6 +31,7 @@ Battle Enemies- Vanquish challenging bosses, relentless creatures, and even the 
 1/5 - I couldn't figure out how to install it.
 
 ### System Requirements
+
 #### Minimum:
 OS: 32-bit Windows 7 or later
 CPU: Core i5-760 or better
