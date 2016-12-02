@@ -28,7 +28,7 @@ Battle Enemies- Vanquish challenging bosses, relentless creatures, and even the 
 ### Reviews
 __5/5__
 
-I laughed, I cried, Iand  yelled. This game had me hooked for hours! Great story, beautiful world.
+I laughed, I cried, I and yelled. This game had me hooked for hours! Great story, beautiful world.
 
 __4/5__
 
