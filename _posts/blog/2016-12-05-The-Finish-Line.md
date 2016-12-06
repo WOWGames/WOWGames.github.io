@@ -13,6 +13,6 @@ Guys, guys! It's been a while since we went silent as we submerged ourselves int
 
 In only ten weeks, we are proud to present our game, MILK. Check it out [here]({{ site.basurl }}/games/milk/)!
 
-Everything you need to know is in this documentation: __________DOCUMENTATION____________
+Everything you need to know about this awesome game is in this documentation [here]({{ site.baseurl }}/assets/doc/designdoc.pdf).
 
-It's been quite the quarter, and needless to say, it's been quite the adventure. We finished right on time, and the only thing left is our presentation on Tuesday, December 6th at 1-3pm at UC Irvine. Come check us out at our booth!
+It's been quite the quarter, and needless to say, it's been quite the adventure. We finished right on time, and the only thing left is our presentation on Tuesday, December 6th from 1-3pm at UC Irvine. Come check us out at our booth!
