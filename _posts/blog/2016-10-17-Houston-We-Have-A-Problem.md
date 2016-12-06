@@ -5,10 +5,11 @@ date: 2016-10-17
 author: DK Nguyen
 categories:
 - blog
-img: post02.jpg
-thumb: thumb02.jpg
+- milk
+img: houston_problem.png
+thumb: houston_problem_thumb.png
 ---
-Interestingly enough, but not too surprising, we've run into a couple important problems.
+Interestingly enough, but not too surprising, we've run into a couple important problems with our current game.
 
 Our idea of followers seemed simple enough at the beginning, but as we continued to develop the game, it started giving us some complications. For one, we got stuck at the health system concept; we weren't sure if each character in the group would have their own health, or if there would just be one health for the whole group. Another complication was the battle system. When it comes to monsters, should the player fight with all the characters at once? Or individually? What does the main character do? Does he have any skills? It went on like that.
 
