@@ -11,7 +11,9 @@ thumb: finish_line_thumb.png
 ---
 Guys, guys! It's been a while since we went silent as we submerged ourselves into our game project, but we are now emerging with something of a masterpiece!
 
-In only ten weeks, we are proud to present our game, MILK. Check it out [here]({{ site.basurl }}/games/milk/)!
+In only ten weeks, we are proud to present our game, MILK! To be honest, we did more than we had planned and it turned out to be one of the coolest projects yet.
+
+Check it out [here]({{ site.basurl }}/games/milk/)!
 
 Everything you need to know about this awesome game is in this documentation [here]({{ site.baseurl }}/assets/doc/designdoc.pdf).
 
