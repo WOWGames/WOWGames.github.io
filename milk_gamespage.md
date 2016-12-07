@@ -4,7 +4,6 @@ title:  "M.I.L.K."
 categories:
 - project
 img: portfolio_10.jpg
-thumb: thumb02.jpg
 carousel:
 - surferbro_battle2.png
 - vegan_battle1.png
@@ -31,14 +30,14 @@ permalink: /games/milk/
 
 Just an average day always has the chance to take an unexpected turn. A simple request can spiral you into a crazy, eye-opening struggle to find your way home.
 
-Shape your adventure as you recruit followers to aid you on your journey against the unknown. Explore the the vast island while battling enemies in your search for a way back home. Travel through forests and volcanoes to provide for your family and conquer your fears. Discover C.A.T.T.T.L.E and Milkmen, and get sucked into fierce battles and wars raging on the island!
+Shape your adventure as you recruit followers to aid you on your journey against the unknown. Explore the the vast island while battling enemies in your search for a way back home. Travel through forests and volcanoes to provide for your family and conquer your fears. Discover C.A.T.T.T.L.E. and Milkmen (yes, CATTTLE with 3 T's), and get sucked into fierce battles and raging wars on the island!
 
 ### Key Features
-Expansive Map - Get lost in an immersive world. Explore islands, lakes, volcanoes, forests, and more!
+__Expansive Map__ - Get lost in an immersive world. Explore islands, lakes, volcanoes, forests, and more!
 
-Gain A Following - Collect followers to help you on your adventure. Enlist them to help you battle enemies, conquer obstacles, and add their own charm to the story. Try to collect them all!
+__Gain A Following__ - Collect followers to help you on your adventure. Enlist them to help you battle enemies, conquer obstacles, and add their own charm to the story. Try to collect them all!
 
-Battle Enemies - Vanquish challenging bosses, relentless creatures, and even the occasional stray cat - all in the name of family.
+__Battle Enemies__ - Vanquish challenging bosses, relentless creatures, and even the occasional stray cat - all in the name of family.
 
 ### Teaser Video
 
