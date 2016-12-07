@@ -61,14 +61,14 @@ members:
         url: mailto:jimml10@uci.edu
 
   - name: Darren Lieu
-    position: Assistant to the Project Manager
+    position: Project Manager
     img: team03.png
     social:
       - title: envelope #use for email address
         url: mailto:lieud1@uci.edu
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "We make games not just for your entertainment, but for your inner nerd as well."
+about: "We are students at the University of California, Irvine. Our goal for this quarter in our Computer Development Game class is to create and develop an awesome game."
 
 
 ### CONTACT SETTINGS ###
