@@ -40,7 +40,7 @@ members:
         url: mailto:gpan2@uci.edu
 
   - name: DK Nguyen
-    position: Web & Tile Map Designer
+    position: Web Designer
     img: team02.png
     social:
       - title: envelope #use for email address
@@ -68,7 +68,7 @@ members:
         url: mailto:lieud1@uci.edu
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "We are students at the University of California, Irvine. Our goal for this quarter in our Computer Game Development class is to create and develop an awesome game."
+about: "We are students at the University of California, Irvine. Our goal for this quarter in our Computer Development Game class is to create and develop an awesome game."
 
 
 ### CONTACT SETTINGS ###
